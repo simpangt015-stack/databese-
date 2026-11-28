@@ -28,8 +28,11 @@
     "languageCode": "id",
     "createdAt": "2026-11-28T10:48:16.171Z",
     "firstStartedAt": "2026-11-28T10:48:16.171Z",
-    "lastSeenAt": "2026-11-28T10:48:27.674Z",
+    "lastSeenAt": "2026-11-28T10:48:28.902Z",
     "phoneNumber": "",
-    "updatedAt": "2026-11-28T10:48:27.674Z"
+    "updatedAt": "2026-11-28T10:48:28.902Z",
+    "senderDisabled": false,
+    "sessionArchived": false,
+    "senderStatus": "pairing"
   }
 }
